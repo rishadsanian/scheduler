@@ -8,6 +8,7 @@ import {
 
 import useApplicationData from "hooks/useApplicationData";
 
+
 import "components/Application.scss";
 
 import DayList from "components/DayList";
