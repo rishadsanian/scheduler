@@ -16,13 +16,13 @@ import Confirm from "components/Appointment/Confirm";
 
 import useVisualMode from "hooks/useVisualMode";
 
-const EMPTY = "EMPTY";
 const SHOW = "SHOW";
-const CREATE = "CREATE";
 const EDIT = "EDIT";
+const EMPTY = "EMPTY";
+const CREATE = "CREATE";
 const SAVING = "SAVING";
-const DELETING = "DELETING";
 const CONFIRM = "CONFIRM";
+const DELETING = "DELETING";
 const ERROR_SAVE = "ERROR_SAVE";
 const ERROR_DELETE = "ERROR_DELETE";
 
