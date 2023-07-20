@@ -20,7 +20,6 @@ export default function Form(props) {
   }
 
   function validate() {
-    console.log('interviewer in validate function: ',interviewer);
     if (!name) {
       setError("Student name cannot be blank");
       return;
