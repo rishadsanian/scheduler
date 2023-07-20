@@ -10,11 +10,10 @@ The requirements and goals worked on are the following:
 - Able to delete an appointment
 - Able to edit and appointment
 spots remaning increments and decrements accordingly when booking/deleting appointments
-- Createing and utilizing development tests using Jest, Cypress, React prop-types.
+- Creating and utilizing development tests using Jest, Cypress, React prop-types, React-testing-library.
 
 <br>
 
-# Interview Scheduler
 
 ## Setup
 
