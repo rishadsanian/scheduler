@@ -11,7 +11,7 @@
   publish = "build/"
 
   # Default build command.
-  command = "npm run build"
+  command = "nvm install 14 && nvm use 14 && npm run build"
 
 [build.environment]
   REACT_APP_API_BASE_URL = "https://scheduler-api-production-9c20.up.railway.app"
