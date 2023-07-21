@@ -1,7 +1,7 @@
 # Interview Scheduler
 Welcome to Interview Scheduler! An app that allows a student to create, edit and delete interview appointments.
 
-This was a mini-project for the Lighthouse Labs Web Development Bootcamp designed involving custom hooks and testing. The cloned repo came fully equiped with both frontend and back end. 
+This was a mini-project for the Lighthouse Labs Web Development Bootcamp designed involving custom hooks and testing. The cloned repo came fully equiped with both frontend and back end. Optional Stretch activiites includes seting up Railway for deployment, Circle CI for tests. 
 
 The requirements and goals worked on are the following: 
 
